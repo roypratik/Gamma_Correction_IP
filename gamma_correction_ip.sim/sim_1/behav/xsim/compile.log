@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/a0504467/bits_pilani/sem_1/hscd_lab/vivado/gamma_correction_ip/gamma_correction_ip.srcs/sources_1/new/gamma_lut.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module gamma_lut
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/a0504467/bits_pilani/sem_1/hscd_lab/vivado/gamma_correction_ip/gamma_correction_ip.srcs/sources_1/new/gamma_correction.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module gamma_correction

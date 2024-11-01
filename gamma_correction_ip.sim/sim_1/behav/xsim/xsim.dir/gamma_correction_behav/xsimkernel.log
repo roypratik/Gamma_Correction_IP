@@ -1,0 +1,7 @@
+Running: xsim.dir/gamma_correction_behav/xsimk -simmode gui -wdb gamma_correction_behav.wdb -simrunnum 0 -socket 58415
+Design successfully loaded
+Design Loading Memory Usage: 29112 KB (Peak: 29724 KB)
+Design Loading CPU Usage: 100 ms
+Simulation completed
+Simulation Memory Usage: 111108 KB (Peak: 168380 KB)
+Simulation CPU Usage: 120 ms
